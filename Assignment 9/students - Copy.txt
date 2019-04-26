@@ -1,0 +1,10 @@
+1;grigore catalin;1
+2;georgescu gheorghe;2
+3;matei alexandru;3
+4;popescu cornel;4
+5;popescu alexandru;5
+6;olareanu alexandru;6
+7;ion catalin;7
+8;matei cristina;8
+9;grigore maria;9
+10;pop alexandru;10
